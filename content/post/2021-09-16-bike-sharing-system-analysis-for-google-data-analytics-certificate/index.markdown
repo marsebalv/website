@@ -1,14 +1,14 @@
 ---
-title: Hi Hugo
+title: Bike sharing system analysis for Google Data Analytics Certificate
 author: Mariano S. Alvarez
 date: '2021-09-16'
-slug: hi-hugo
+slug: bike-sharing-system-analysis-for-google-data-analytics-certificate
 categories: []
 tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-09-16T11:42:40+02:00'
+lastmod: '2021-09-16T16:41:00+02:00'
 featured: no
 image:
   caption: ''
@@ -31,3 +31,4 @@ summary(Orange)
 ##  4:7   3rd Qu.:1372.0   3rd Qu.:161.5  
 ##        Max.   :1582.0   Max.   :214.0
 ```
+

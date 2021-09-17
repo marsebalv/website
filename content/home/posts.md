@@ -1,7 +1,10 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: portfolio
+
+# show?
+active: true
 
 # This file represents a page section.
 headless: true
@@ -9,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
+title: Portfolio
 subtitle:
 
 content:
@@ -37,5 +40,9 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 3
+  
+  
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: false
 ---

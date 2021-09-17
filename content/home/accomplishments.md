@@ -23,30 +23,23 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
+- certificate_url: https://www.credly.com/badges/13ed91c1-5d28-404b-b701-0669465fec17?source=linked_in_profile
+  date_end: "2021-09-13"
+  date_start: "2021-06-14"
+  description: "The certification includes skills as data cleaning, problem solving, critical thinking, data ethics, and data visualization using Presentations, Spreadsheets, SQL, Tableau and R Programming as tools"
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  title: Google Data Analytics Certificate
+  url: "https://www.coursera.org/professional-certificates/google-data-analytics"
+  
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/5STYW3BUHDUU
+  date_end: "2021-06-03"
+  date_start: "2021-05-06"
+  description: "This course covers topics such as how sustainability has been understood, which are the SDGs, how the SDGs are measured and how the SDGs are relevant for the management of the global systems supporting humanity"
+  organization: Coursera & University of Copenhagen
+  organization_url: https://www.coursera.org
+  title: The Sustainable Development Goals – A global, transdisciplinary vision for the future
+  url: "https://www.coursera.org/learn/global-sustainable-development"
 
 design:
   columns: '2' 
