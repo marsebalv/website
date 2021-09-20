@@ -3,6 +3,9 @@
 .RData
 .Ruserdata
 .DS_Store
+.csv
+.RDS
 Thumbs.db
 /public/
 /resources/
+
