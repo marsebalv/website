@@ -689,3 +689,4 @@ skim_without_charts(data[data$member_casual == "casual",.(ride_duration)])
 * **Casual riders are more active on weekends** -> Greater chance to encounter casual riders on weekends if a personal campaign is launched.
 * **Casual riders might not be using a bike to go to work** -> Room to understand the cause and inform alternatives (e.g. electric bikes to commute)
 * **Casual riders use Streeter Dr & Grand Ave the most** -> Greater chance to encounter casual riders there for personal campaigns.
+
