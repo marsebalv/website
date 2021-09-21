@@ -1,0 +1,11 @@
+# Font style metadata
+# name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "family=Cardo&family=Oswald"
+
+# Font families
+heading_font = "Oswald"
+body_font = "Cardo"
+nav_font = "Oswald"
+mono_font = "Cardo"
