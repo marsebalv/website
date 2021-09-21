@@ -14,13 +14,13 @@ role: Climate scientist - Data Analyst
 #  url: www.cima.fcen.uba.ar
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include climate variability and forecast in subseasonal time scales
+#bio: My interests include data analysis and climate variability
 
 # Interests to show in About widget
 interests:
 - Data analysis
-- Visualization
 - Climate variability
+- Visualization
 
 # Education to show in About widget
 education:
@@ -64,7 +64,7 @@ email: ""
 highlight_name: false
 ---
 
-I'm a Climate Scientist who has been working on climate variability, predictability and prediction on subseasonal timescales over the Southern Hemisphere and South America.
+I'm a Climate Scientist who has been working on understanding climate variability and prediction on weekly timescales within a season, which involved analyzing large data sets of observations, simulations and multi-model forecasts using supervised and unsupervised learning approaches.
 
-I enjoy working with large amounts of data to find answers to a problem, and through my career I developed a growing interest on data visualization to convey those answers to different audiences.
+I really enjoy digging into large amounts of data to find answers to a problem, and through my career I developed a growing interest on data visualization to convey those answers to different audiences.
 
