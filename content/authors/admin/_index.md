@@ -6,7 +6,7 @@ title: Mariano S. Alvarez
 superuser: true
 
 # Role/position/tagline
-role: Climate scientist - Data Analyst
+role: Climate scientist - Data analyst
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -40,15 +40,15 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: '/#contact'
-- icon: orcid # 
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-5134-5250
-- icon: github
-  icon_pack: fab
-  link: https://github.com/marsebalv
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/marsebalv/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/marsebalv
+- icon: orcid # 
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-5134-5250
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
